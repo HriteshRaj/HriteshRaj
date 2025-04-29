@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritesh Raj Pattanaik</h1>
-<h3 align="center">A passionateSoftware developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
