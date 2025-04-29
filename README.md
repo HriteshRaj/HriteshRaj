@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritesh Raj Pattanaik</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionateSoftware developer from India</h3>
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Student Study Session App**
 
-- 🌱 I’m currently learning **Compose Multi Platform, Kotlin Multi Platform**
+- 🌱 I’m currently learning **JAVA WITH SPRINGBOOT**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 👯 I’m looking to collaborate on **JAVA PROJECTS**
 
-- 🤝 I’m looking for help with **Jetpack Compose, Dagger-Hilt**
+- 🤝 I’m looking for help with **OPENSOURCE FOR SPRINGBOOT PROJECTS**
 
 - 📫 How to reach me **hriteshraj102@gmail.com**
 
